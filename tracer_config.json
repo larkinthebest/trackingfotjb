@@ -1,0 +1,8 @@
+{
+    "functions": [
+        "compute",
+        "fast",
+        "variable_delay"
+    ],
+    "enabled": false
+}
